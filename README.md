@@ -1,5 +1,5 @@
 # YouTaQA 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/AgabiYounes/YouTaQA)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/AgabiYounes/YouTaQA) \
 YouTaQA is a powerful Q&A system that provides a complete pipeline. Unlike existing QA systems, our system allows users to have accurate answers to their questions based entirely on our search engine, saving the user from having to provide anything other than the question, and possibly making their task easier.
 To achieve the objective of our system, as shown in the general diagram, we've conceived an architecture composed of three basic modules and an UI where the users enter their questions:
 
